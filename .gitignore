@@ -1,0 +1,7 @@
+data/
+keystore/
+._COPYING
+._geth
+COPYING
+eth.log
+nohup.out
